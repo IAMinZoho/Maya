@@ -16,6 +16,8 @@ e.g.
 
 Maya -Rubeus -Command "klist"
 
+Maya -Rubeus -Command "asktgt /user:MNDC /password:ComputerPassword /domain:mitnick.in /dc:MNDC.mitnick.in /nowrap"
+
 Maya -Seatbelt -Command "-group=user"
 
 Maya -grouper2 -Command "-Path c:\Temp\gporeport.xml"
